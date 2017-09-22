@@ -480,7 +480,10 @@ zenbot sell gdax.BTC-USD --pct=10
 
 P.S., some have asked for how to donate to Zenbot development. I accept donations at **my Bitcoin address** Here:
 
-### carlos8f's BTC
+### michaelcrandolph's BTC wallet
+`1LDskXD6yy99BsJoDeKa4R2CrsETKCJc7R`
+
+### carlos8f's BTC wallet (Original Developer)
 
 `187rmNSkSvehgcKpBunre6a5wA5hQQop6W`
 
